@@ -1,0 +1,12 @@
+﻿# 输出
+~/Downloads/股票筛选/
+*.html
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 系统
+.DS_Store
+Thumbs.db
